@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Version="1.0.7.5" Uri="https://msixcommander.azurewebsites.net/MSIX_Commander.AppInstaller" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+  <MainPackage Name="PascalBerger.MSIXCommander" Publisher="CN=baseVISION AG, O=baseVISION AG, L=Däniken, S=Solothurn, C=CH" Version="1.0.7.5" ProcessorArchitecture="x64" Uri="https://msixcommander.azurewebsites.net/MSIX Commander_1.0.7.5-x64.msix" />
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0" ShowPrompt="true" UpdateBlocksActivation="false"/>
+    <AutomaticBackgroundTask />
+    <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
+  </UpdateSettings>
+</AppInstaller>
