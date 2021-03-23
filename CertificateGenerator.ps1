@@ -1,6 +1,6 @@
 ﻿$Publisher_CN = “CN=Natwest” #enter cert name
-$Publisher_DisplayName=”Natwest” #enter organization name
-$password=”Sisl123$” #enter password
+$Publisher_DisplayName=”Publisher" #enter organization name
+$password=”PutPassword” #enter password
 $FolderToExportCert=”C:\Temp” #Note: Folder must exist
 $CertName=”MSIX” #filename for the cert file
 
